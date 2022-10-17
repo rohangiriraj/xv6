@@ -1,6 +1,8 @@
-#include "types.h"
-#include "stat.h"
-#include "user.h"
+#include "types.h" //Header file that helps identify the type of the file serial number or the file id
+#include "stat.h" //Data structure that includes the stat command
+#include "user.h" // Basically some stuff used for gdb
+
+//refer : 
 
 int
 main(int argc, char *argv[])
